@@ -1,0 +1,13 @@
+.utec-color {
+    color: '#54c0f5';
+}
+
+.utec-color-d {
+    color: '#0090C2'
+}
+
+.center-div-content {
+    display: 'flex';
+    align-items: 'center';
+    justify-content: 'center';
+}

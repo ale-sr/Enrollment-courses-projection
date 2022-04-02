@@ -1,0 +1,214 @@
+id,codcurso,nombrecurso,r2,area,prediccion
+1,EL4001,Circuitos Analógicos,0.892,Departamento de Electrónica,13
+2,EL5002,Análisis de Señales y Sistemas,0.982,Departamento de Electrónica,96
+3,EL4002,Modelado y Simulación,0.967,Departamento de Electrónica,105
+4,ME4003,Mecánica de Fluidos,0.937,Departamento de Mecánica,122
+5,ME0003,Seguridad en operaciones mineras,0.843,Departamento de Mecánica,24
+6,QI0003,Mineralogía Aplicada,0.946,Departamento de Química,17
+7,EL6003,Control Automático,0.919,Departamento de Electrónica,66
+8,ME9002,Tesis en Ingeniería Mecánica I,0.947,Departamento de Mecánica,19
+9,IN0002,Tesis en Ingeniería Industrial II,0.968,Departamento de Industrial,20
+10,ME6006,Mecánica de Materiales,0.987,Departamento de Mecánica,116
+11,ME3003,Estática,0.814,Departamento de Mecánica,128
+12,IN8006,Análisis y Diseño de Sistemas de Manufactura y Servicios,0.777,Departamento de Industrial,61
+13,ME0019,Física I,0.751,Departamento de Ciencias,383
+14,EN0030,Biomasa y Geotermia,0.92,Departamento de Energía,39
+15,GH0009,Perú: ¿País Industrial?,0.828,Dirección de Humanidades Artes y Ciencias Sociales,207
+16,GH0017,Introducción al Quechua,0.617,Dirección de Humanidades Artes y Ciencias Sociales,45
+17,QI6006,Transferencia de masa,0.872,Departamento de Química,17
+18,EL6004,Introducción a Sistemas Embebidos,0.972,Departamento de Electrónica,44
+19,EG0009,Proyecto Interdisciplinario III,0.911,Jefatura de Proyectos Académicos,213
+20,ME0028,Automatización de Sistemas,0.948,Departamento de Mecánica,60
+21,ME0004,Tesis en Ingeniería Mecánica II,0.967,Departamento de Mecánica,28
+22,ME0022,Dinámica,0.823,Departamento de Mecánica,67
+23,GH1002,Arte y Tecnología,0.835,Dirección de Humanidades Artes y Ciencias Sociales,328
+24,EN0028,Tesis en Ingeniería de la Energía II,0.86,Departamento de Energía,7
+25,QI0030,Procesos Químicos en la Industria,0.117,Departamento de Química,13
+26,EN0024,Marco Legal y Politica Energética,0.992,Departamento de Energía,19
+27,EN8004,Auditoría y Eficiencia Energética,0.931,Departamento de Energía,31
+28,IN0074,Diseño de Redes de Cadenas de Suministro,0.517,Departamento de Industrial,12
+29,IN0076,Gestión de Centros de Distribución y Transporte,0.931,Departamento de Industrial,48
+30,GH0011,Innovación y Desarrollo de Productos,0.979,Dirección de Gestión,249
+31,IN5005,Costeo de Operaciones,0.893,Departamento de Industrial,47
+32,EL6006,Electrónica de Potencia,0.997,Departamento de Electrónica,13
+33,IN0081,Modelado y Simulación de Procesos de Negocio,0.913,Departamento de Industrial,53
+34,IN0078,Gestión de Inventarios,0.698,Departamento de Industrial,25
+35,GH0019,Emprendedores en Acción,0.923,Dirección de Humanidades Artes y Ciencias Sociales,50
+36,EN5002,Ingeniería del Gas Natural,0.667,Departamento de Energía,10
+37,EG0003,Matemáticas I,0.638,Departamento de Ciencias,432
+38,GH0015,Imagen y Marca Personal,0.884,Dirección de Humanidades Artes y Ciencias Sociales,175
+39,IN0082,Planeamiento de la Demanda,0.949,Departamento de Industrial,38
+40,ME0021,Termodinámica,0.895,Departamento de Ciencias,329
+41,IN0056,Investigación de Operaciones I: Modelos Determinísticos,0.952,Departamento de Industrial,91
+42,ME0023,Dibujo y Diseño para Ingeniería,0.82,Departamento de Mecánica,101
+43,IN0057,Seguridad y Salud Ocupacional,0.84,Departamento de Industrial,168
+44,GH0014,Culturas de Gobernanza y Distribución de Poder,0.986,Dirección de Humanidades Artes y Ciencias Sociales,222
+45,EL0045,Introducción a las Redes de Computadoras,0.959,Departamento de Electrónica,28
+46,EL7006,Instrumentación industrial,0.912,Departamento de Electrónica,18
+47,ME0026,Diseño de Sistemas Mecánicos,0.948,Departamento de Mecánica,19
+48,ME0008,Gestión de Equipos y Maquinarias,0.885,Departamento de Mecánica,39
+49,CS1102,Programación orientada a objetos I,0.92,Departamento de Ciencias,331
+50,EL0069,Proyecto de ECE,0.756,Departamento de Electrónica,14
+51,IN0062,Diseño de Productos y Servicios,0.557,Departamento de Industrial,50
+52,EL0070,Tesis en ECE I,0.874,Departamento de Electrónica,8
+53,EG0006,Matemáticas III,0.756,Departamento de Ciencias,296
+54,GH0006,Laboratorio de Comunicación 2,0.932,Dirección de Humanidades Artes y Ciencias Sociales,379
+55,CS1100,Introducción a la Ciencia de la Computación,0.337,Departamento de Ciencias,366
+56,AM0040,Ecosistemas y Paisajes,0.699,Departamento de Ingeniería Ambiental,13
+57,EN0038,Energía Eólica,0.862,Departamento de Energía,29
+58,ME0036,Tópicos Selectos de Ingeniería Mecánica,0.521,Departamento de Mecánica,10
+59,MT0002,Sensores y Actuadores,0.987,Departamento de Mecatrónica,40
+60,CS2701,Base de datos I,0.947,Departamento de Computer Science,50
+61,EN4003,Ingeniería del Petróleo,0.82,Departamento de Energía,19
+62,AM0001,Introducción a la Ingeniería Ambiental,0.467,Departamento de Ingeniería Ambiental,47
+63,EN0027,Tesis en Ingenieria de la Energía I,0.791,Departamento de Energía,7
+64,QI7005,Termodinámica Química,0.824,Departamento de Química,10
+65,EG0008,Proyecto Interdisciplinario II,0.605,Jefatura de Proyectos Académicos,283
+66,EN0021,Física II,0.961,Departamento de Ciencias,380
+67,GH0025,English for STEAM,0.977,Dirección de Humanidades Artes y Ciencias Sociales,149
+68,QI0027,Química General,0.633,Departamento de Ciencias,511
+69,AM0037,Ciencia de los Materiales,0.99,Departamento de Ciencias,251
+70,IN0065,Simulación de Operaciones,0.625,Departamento de Industrial,58
+71,IN0067,Sistemas de Información para Operaciones,0.998,Departamento de Industrial,12
+72,GH0008,Gestión de Empresas,0.733,Dirección de Gestión,342
+73,GH0007,Introducción al Desarrollo de Empresas,0.954,Dirección de Gestión,342
+74,EN0025,Planificación y Economía de la Energía,0.66,Departamento de Energía,33
+75,QI0001,Tesis en Ingeniería Química II,0.438,Departamento de Química,9
+76,QI0040,Diseño de Reactores Químicos I,0.629,Departamento de Química,7
+77,CS2901,Ingeniería de Software I,0.965,Departamento de Computer Science,49
+78,GH0024,Crítica de la Modernidad,0.997,Dirección de Humanidades Artes y Ciencias Sociales,195
+79,IN0063,Lean Thinking,0.991,Departamento de Industrial,29
+80,ME0035,Seminario de proyecto pre profesional,0.945,Departamento de Mecánica,25
+81,CS1D01,Estructuras Discretas I,0.021,Departamento de Computer Science,89
+82,IN0060,Planeamiento y Control de Operaciones,0.922,Departamento de Industrial,39
+83,ME0037,Ingeniería de Materiales,0.911,Departamento de Mecánica,21
+84,IN0061,Investigación de Operaciones II: Modelos Probabilísticos,0.627,Departamento de Industrial,68
+85,AM0012,"Atmosfera, oceano y dinamica climatica",0.108,Departamento de Ingeniería Ambiental,21
+86,AM0038,Hidrología,1.0,Departamento de Ingeniería Ambiental,13
+87,EN0022,Hidroenergía,0.689,Departamento de Energía,16
+88,CS2702,Base de datos II,0.958,Departamento de Computer Science,23
+89,QI6005,Transferencia de calor,0.953,Departamento de Química,68
+90,EN7003,Máquinas Térmicas,0.866,Departamento de Energía,30
+91,QI0033,Análisis Químico para Ingeniería,0.892,Departamento de Química,5
+92,BI0036,Ciencia y Cocina,0.481,Departamento de Bioingeniería,20
+93,IN9001,Tesis en Ingeniería Industrial I,0.831,Departamento de Industrial,20
+94,EL8005,Redes industriales,0.503,Departamento de Electrónica,11
+95,IN0054,Estadística y Probabilidades,0.69,Departamento de Ciencias,228
+96,AM0010,Geologia General,0.879,Departamento de Ingeniería Ambiental,47
+97,BI0024,Biodiseño,0.833,Departamento de Bioingeniería,40
+98,CS2201,Arquitectura de computadoras,0.83,Departamento de Computer Science,77
+99,CS2B01,Desarrollo basado en plataformas,0.658,Departamento de Computer Science,59
+100,CS3101,Programación Competitiva,1.0,Departamento de Computer Science,29
+101,MT0006,Fundamentos de Robótica,0.994,Departamento de Mecatrónica,17
+102,EG0005,Matemáticas II,0.943,Departamento de Ciencias,368
+103,AM0015,Desarrollo sustentable,1.0,Departamento de Ingeniería Ambiental,26
+104,MT0001,Mecanismos y Transmisión de Movimiento,0.713,Departamento de Mecatrónica,31
+105,CS1103,Programación orientada a objetos II,0.913,Departamento de Computer Science,76
+106,BI0016,Robótica médica,0.548,Departamento de Bioingeniería,3
+107,CS2601,Inteligencia Artificial,1.0,Departamento de Computer Science,34
+108,BI0005,Biotransporte,0.998,Departamento de Bioingeniería,27
+109,BI0001,Química Orgánica,0.614,Departamento de Bioingeniería,54
+110,QI0042,Operaciones de Separación Físico-Mecánicas,0.692,Departamento de Química,13
+111,CI0004,Geomática,0.994,Departamento de Civil,36
+112,EN3004,Ingeniería Eléctrica,0.791,Departamento de Energía,13
+113,IN0090,Ingeniería Financiera,0.969,Departamento de Industrial,49
+114,BI0025,Bioinformática y Bioestadística,0.572,Departamento de Bioingeniería,26
+115,IN0059,Diseño de Experimentos y Control Estadístico de Procesos,0.435,Departamento de Industrial,22
+116,GH0016,Liderazgo y negociación,0.961,Dirección de Gestión,135
+117,CI0008,Tecnología de los Materiales de Construcción,1.0,Departamento de Civil,13
+118,AM0004,Ecología y Recursos Naturales,0.989,Departamento de Ingeniería Ambiental,52
+119,QI0037,Diseño de Procesos Químicos,1.0,Departamento de Química,18
+120,MT0008,Diseño de sistemas mecatrónicos,0.818,Departamento de Mecatrónica,11
+121,CS3903,Sistemas de Información,0.69,Departamento de Computer Science,31
+122,CS2102,Análisis y Diseño de Algoritmos-ADA,0.604,Departamento de Computer Science,41
+123,BI0002,Biología Celular y Molecular,0.894,Departamento de Bioingeniería,36
+124,CI0009,Resistencia de Materiales II,1.0,Departamento de Civil,10
+125,GH0033,Discapacidad: Los Retos de la Inclusión,0.617,Dirección de Humanidades Artes y Ciencias Sociales,32
+126,BI0003,Fundamentos de Bioingeniería,0.924,Departamento de Bioingeniería,37
+127,CI0007,Geodesia Satelital y Fotogrametría,1.0,Departamento de Civil,15
+128,QI0031,Química Orgánica Aplicada,0.903,Departamento de Química,11
+129,EG0013,Proyecto Preprofesional,1.0,Jefatura de Proyectos Académicos,122
+130,EN5001,Máquinas Eléctricas ,0.969,Departamento de Energía,35
+131,EN0020,Smart Grid,0.971,Departamento de Energía,25
+132,EL0042,Supervisión y Control por Computadora,0.97,Departamento de Electrónica,18
+133,EL0046,Ingeniería Electromagnética,0.573,Departamento de Electrónica,12
+134,EG0004,Desafíos Globales,0.192,Dirección de Humanidades Artes y Ciencias Sociales,276
+135,GH0005,Laboratorio de Comunicación 1,0.53,Dirección de Humanidades Artes y Ciencias Sociales,216
+136,IN0077,Gestión de Compras y Mercados Electrónicos,0.921,Departamento de Industrial,57
+137,GH0012,Economías en Desarrollo,0.937,Dirección de Humanidades Artes y Ciencias Sociales,197
+138,IN0075,Diseño y Gestión de Servicios,0.914,Departamento de Industrial,48
+139,EL5005,Diseño de Computadoras,0.761,Departamento de Electrónica,38
+140,QI0029,Química Avanzada,0.461,Departamento de Química,16
+141,EL0071,Tesis en ECE II,0.74,Departamento de Electrónica,12
+142,QI0034,Biotecnologías y Bioprocesos,0.297,Departamento de Química,12
+143,EL7005,Control de procesos,0.784,Departamento de Electrónica,28
+144,CS2101,Teoría de la computación,0.827,Departamento de Computer Science,34
+145,IN0058,Procesos de Manufactura,0.848,Departamento de Industrial,63
+146,EL0065,Circuitos Eléctricos,0.806,Departamento de Electrónica,16
+147,EG0007,Proyecto Interdisciplinario I,0.495,Jefatura de Proyectos Académicos,257
+148,IN0066,Métodos Estadísticos Avanzados para la Calidad,0.85,Departamento de Industrial,17
+149,EG0011,Proyecto Interdisciplinario IV,0.988,Departamento de Industrial,5
+150,MT0003,Sistemas Hidráulicos y Neumáticos,0.693,Departamento de Mecatrónica,44
+151,GH0010,Ética y tecnología,0.85,Dirección de Humanidades Artes y Ciencias Sociales,204
+152,ME0025,Diseño de Elementos de Máquinas,0.639,Departamento de Mecánica,32
+153,ME0001,Introducción a la Ingeniería de Minas,0.94,Departamento de Mecánica,42
+154,EN0039,Energía Solar y Termosolar,1.0,Departamento de Energía,12
+155,CS2S01,Sistemas Operativos,0.789,Departamento de Computer Science,52
+156,BI0004,Bioquímica,0.97,Departamento de Bioingeniería,27
+157,AM0002,Fisica y quimica ambiental,0.945,Departamento de Ingeniería Ambiental,14
+158,CS1D02,Estructuras Discretas II,0.93,Departamento de Computer Science,64
+159,IN0068,Metodología de Investigación,0.719,Departamento de Industrial,48
+160,QI0043,Operaciones de Separación Fisicoquímicas,0.938,Departamento de Química,11
+161,CS3402,Compiladores,0.695,Departamento de Computer Science,15
+162,EG0014,Tesis I,0.999,Dirección Académica,231
+163,IN0064,Logística y Gestión de la Cadena de Suministros,0.679,Departamento de Industrial,53
+164,IN0069,Métodos de Teoría de Decisiones,0.896,Departamento de Industrial,57
+165,EL0066,Circuitos Eléctricos y Analógicos,0.93,Departamento de Electrónica,77
+166,AM0039,Microbiologia Ambiental,1.0,Departamento de Ingeniería Ambiental,15
+167,AM0005,"Edafologia, manejo y conservacion de suelos",1.0,Departamento de Ingeniería Ambiental,23
+168,CS2100,Algoritmos y Estructura de datos,0.759,Departamento de Computer Science,57
+169,BI0026,Biomateriales,1.0,Departamento de Bioingeniería,56
+170,QI0045,Control de Procesos Químicos,1.0,Departamento de Química,5
+171,AM0011,Leyes y derechos ambientales,1.0,Departamento de Ingeniería Ambiental,35
+172,BI0027,Biomecánica,0.959,Departamento de Bioingeniería,20
+173,CI0001,Introducción a la Ingeniería Civil,0.969,Departamento de Civil,62
+174,ME0038,Tesis II,1.0,Departamento de Mecánica,11
+175,QI0046,Tesis II,1.0,Departamento de Química,4
+176,QI0044,Seminario en Ingeniería Química,0.998,Departamento de Química,10
+177,AM0014,Monitoreo ambiental,1.0,Departamento de Ingeniería Ambiental,16
+178,CI0006,Resistencia de Materiales I,1.0,Departamento de Civil,21
+179,CI0003,Tecnologías Aplicadas y Mega Proyectos en Ingeniería Civil,0.985,Departamento de Civil,28
+180,EL4003,Circuitos Digitales,0.874,Departamento de Electrónica,71
+181,EL9002,Introducción a Cognitive Computing,0.999,Departamento de Electrónica,18
+182,CI0002,Geometría Descriptiva,0.899,Departamento de Civil,37
+183,CS3102,Estructura de datos avanzados,0.893,Departamento de Computer Science,34
+184,CS2H01,Interacción Humano Computador,0.666,Departamento de Computer Science,4
+185,QI0028,Química Experimental,0.455,Departamento de Ciencias,120
+186,CS3P01,Computación paralela y distribuida,1.0,Departamento de Computer Science,44
+187,ME0027,Ingeniería de Mantenimiento,1.0,Departamento de Mecánica,36
+188,QI0032,Análisis de Procesos Químicos,0.758,Departamento de Química,13
+189,EN0040,Tesis II,1.0,Departamento de Energía,9
+190,IN0083,Servicios Electrónicos,1.0,Departamento de Industrial,14
+191,BI0006,Fisiología y Fisiopatología,1.0,Departamento de Bioingeniería,62
+192,CI0010,Diseño de Infraestructura,1.0,Departamento de Civil,7
+193,CS3700,Big Data,1.0,Departamento de Computer Science,17
+194,CS2301,Redes y Comunicaciones,0.982,Departamento de Computer Science,11
+195,BI0019,Procesos de Biotecnología I,0.792,Departamento de Bioingeniería,12
+196,AM0035,Principios de Teledetección y aplicaciones ambientales,1.0,Departamento de Ingeniería Ambiental,20
+197,ME0009,Análisis de Falla y Toma de Decisiones,0.973,Departamento de Mecánica,43
+198,EL0078,Técnicas en Redes IP,0.991,Departamento de Electrónica,5
+199,AM0007,Ingenieria de residuos sólidos y gestión,1.0,Departamento de Ingeniería Ambiental,18
+200,GH0023,Business Communication,0.839,Dirección de Humanidades Artes y Ciencias Sociales,125
+201,QI0041,Diseño de Reactores Químicos II,1.0,Departamento de Química,5
+202,MT0013,Robótica Autónoma,1.0,Departamento de Mecatrónica,39
+203,IN0055,Ingeniería de Operaciones,0.298,Departamento de Industrial,39
+204,EL0085,Tesis II,1.0,Departamento de Electrónica,10
+205,BI0035,Bioinformática Avanzada,1.0,Departamento de Bioingeniería,9
+206,BI0029,Sistemas Biológicos,1.0,Departamento de Bioingeniería,35
+207,CI0011,Ingeniería de Transporte I,1.0,Departamento de Civil,1
+208,AM0009,Hidrogeologia,1.0,Departamento de Ingeniería Ambiental,8
+209,CS4002,Proyecto Final de Carrera I,1.0,Departamento de Computer Science,28
+210,CI0005,Dinámica,1.0,Departamento de Civil,3
+211,BI0023,Neurociencias,1.0,Departamento de Bioingeniería,22
+212,AM0017,Contaminacion Atmosferica,1.0,Departamento de Ingeniería Ambiental,7
+213,CI0012,Mecánica de Suelos,1.0,Departamento de Civil,3
